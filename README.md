@@ -6,25 +6,25 @@ Welcome to my GitHub profile! I'm passionate about technology, continuous learni
 
 ## 🎓 Academics
 
-- **Current Education**: [Your Current Degree/Program]
-  - University/Institution: [Your University Name]
-  - Expected Graduation: [Year]
-  - Major: [Your Major/Field of Study]
-  - GPA/Percentage: [Your GPA/Percentage] (if applicable)
-
+- **Current Education**: [ MTECH-CS ] 
+  - University/Institution: [ IIT KHARAGPUR ]
+  - Expected Graduation: [ 2027 ]
+  - Major: [ COMPUTER SCIENCE AND ENGINEERING ]
+  - Gate-cs :724
 - **Previous Education**:
-  - [Previous Degree/Certification]
-  - [Institution Name]
+  - [ BTECH - CSE ]
+  - [ IIIT ONGOLE ]
+  - CGPA : 9.14
 
 ---
 
 ## 💻 Technical Skills
 
 ### Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,12 +47,12 @@ Welcome to my GitHub profile! I'm passionate about technology, continuous learni
 ## 🌟 Interests
 
 - **Software Development**: Building scalable and efficient applications
+- **Machine Learning**: Exploring AI/ML concepts and applications
 - **Web Development**: Creating responsive and user-friendly web interfaces
 - **Data Structures & Algorithms**: Solving complex problems and optimization
-- **Open Source**: Contributing to open-source projects and learning from the community
-- **Machine Learning**: Exploring AI/ML concepts and applications
-- **Cloud Computing**: Learning about cloud platforms and deployment strategies
 - **Competitive Programming**: Participating in coding challenges and contests
+- **Open Source**: Contributing to open-source projects and learning from the community
+- **Cloud Computing**: Learning about cloud platforms and deployment strategies
 
 ---
 
@@ -66,19 +66,18 @@ Welcome to my GitHub profile! I'm passionate about technology, continuous learni
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshavardhan-perla-918150358/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harsha.mtech25@kgpian.iitkgp.ac.in)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-url.com)
 
 ---
 
 ## 🚀 Current Focus
 
-- 🔭 I'm currently working on: [Your Current Project/Focus Area]
-- 🌱 I'm currently learning: [Technologies/Skills you're learning]
-- 👯 I'm looking to collaborate on: [Types of projects]
-- 💬 Ask me about: [Your expertise areas]
-- ⚡ Fun fact: [An interesting fact about you]
+- 🔭 I'm currently working on: [ MACHINE LEARNING , NLP ]
+- 🌱 I'm currently learning: [ NLP , DEEP LEARNING ]
+- 👯 I'm looking to collaborate on: [ ML ORIENTED PROJECTS]
+- 💬 Ask me about: [ CORE CS SUBJECTS ]
 
 ---
 
